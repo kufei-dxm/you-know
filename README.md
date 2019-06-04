@@ -17,4 +17,4 @@
 ### 使用tips
 
 * 配置文件里的server使用本机真实ip 
-* 配置项method改为全大写字母，比如：RC4-MD5
+* 配置项method改为全大写字母，比如：RC4-MD5 （如果log中出现wrong password之类的提示的话）
