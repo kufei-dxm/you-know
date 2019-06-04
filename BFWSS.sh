@@ -222,7 +222,7 @@ function config_shadowsocks(){
 },
  "timeout": 300,
  "udp_timeout": 60,
- "method": "chacha20",
+ "method": "RC4-MD5",
  "protocol": "auth_sha1",
  "protocol_param": "",
  "obfs": "http_simple",
